@@ -48,17 +48,6 @@ This research demonstrated the potential of machine learning models to predict f
 
 The findings of this study have significant implications for global food security initiatives, providing a data-driven approach to proactively identifying at-risk countries. Future work could focus on integrating these models with real-time data and exploring other ensemble techniques to further enhance performance.
 
-## 5. Repository Structure
-
-The repository is organised as follows:
-
-- **/data**: Contains the preprocessed dataset and any auxiliary data files used in the study.
-- **/notebooks**: Jupyter notebooks detailing the EDA, model training, and evaluation processes.
-- **/models**: Saved model files and configurations for each of the algorithms tested.
-- **/results**: Performance metrics and visualisations summarising the results of the study.
-- **/src**: Python scripts for data preprocessing, model training, and evaluation.
-- **README.md**: Overview of the research project and its findings (this document).
-
 
 ## 7. Contact Information
 
